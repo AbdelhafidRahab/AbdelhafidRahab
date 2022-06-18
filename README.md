@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AbdelhafidRahab
-- 👀 I’m interested in computer science
+- 👋 Hi, I’m @AbdelhafidRahab,
+- 👀 interested in computer science,
 - 📫 to reach me ,WhatsApp : +213 541 71 01 68
 
 <!---
