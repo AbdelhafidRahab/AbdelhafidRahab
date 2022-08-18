@@ -18,7 +18,7 @@
 <br><br><br><br><br><br><br>
 <h2 align="left">&#128204; Highlight Repositories :</h2>
 
-<a href="https://github.com/AbdelhafidRahab/ToDo_List_App" target="_blank">
+<a href="https://github.com/AbdelhafidRahab/ToDo_List_App">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=ToDo_List_App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDo_List_App" />
 </a>
 <br><br>
