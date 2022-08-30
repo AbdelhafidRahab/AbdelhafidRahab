@@ -55,8 +55,8 @@
 <h2 align="center" >&#128204; Personal Template </h2>
 <div align="center">
 
-<a href="https://github.com/AbdelhafidRahab/Personal_Template_HTML_CSS_JavaScript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Personal_Template_HTML_CSS_JavaScript&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Personal_Template_HTML_CSS_JavaScript" />
+<a href="https://github.com/AbdelhafidRahab/Personal_Template_One">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Personal_Template_One&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Personal_Template_One" />
 </a>
 
 
