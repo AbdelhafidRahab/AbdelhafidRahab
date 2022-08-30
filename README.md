@@ -67,16 +67,16 @@
 <h2 align="center" >&#128204; Others </h2>
 <div align="center">
 
-<a href="https://github.com/AbdelhafidRahab/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Portfolio&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
+<a href="https://github.com/AbdelhafidRahab/Portfolio_One">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Portfolio_One&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio_One" />
 </a>
 
-<a href="https://github.com/AbdelhafidRahab/Image_slider">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Image_slider&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Image_slider" />
+<a href="https://github.com/AbdelhafidRahab/Image_Slider_One">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Image_Slider_One&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Image_Slider_One" />
 </a>
 
-<a href="https://github.com/AbdelhafidRahab/404_Page_Html_and_Css">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=404_Page_Html_and_Css&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="404_Page_Html_and_Css" />
+<a href="https://github.com/AbdelhafidRahab/404_Page_One">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=404_Page_One&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="404_Page_One" />
 </a>
 
 </div>
