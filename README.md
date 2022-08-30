@@ -30,9 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Memory_Game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory_Game" />
 </a>
 
-<a href="https://github.com/AbdelhafidRahab/Quiz_Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Quiz_Application&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Quiz_Application" />
-</a>
+-----------------
 
 </div>
 <br>
