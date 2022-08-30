@@ -13,34 +13,34 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhafidrahab&show_icons=true&locale=en&layout=compact" alt="abdelhafidrahab" /></p>
 <br><br><br><br><br><br><br>
-<h2 align="left">&#128204; Highlight Repositories :</h2>
+
+
+<h2 align="center">&#128204; Highlight Repositories :</h2>
+
+<div align="center">
 
 <a href="https://github.com/AbdelhafidRahab/ToDo_List_App">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=ToDo_List_App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDo_List_App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?     username=AbdelhafidRahab&repo=ToDo_List_App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDo_List_App" />
 </a>
-<br><br>
-<a align="center" href="https://abdelhafidrahab.github.io/ToDo_List_App/"> 🚀 DEMO  </a>
 
-<br><br><br>
 <a href="https://github.com/AbdelhafidRahab/Memory_Game">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Memory_Game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory_Game" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Memory_Game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory_Game" />
 </a>
-<br><br>
-<a align="center" href="https://abdelhafidrahab.github.io/Memory_Game/"> 🚀 DEMO  </a>
 
-<br><br><br>
 <a href="https://github.com/AbdelhafidRahab/Quiz_Application">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Quiz_Application&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Quiz_Application" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Quiz_Application&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Quiz_Application" />
 </a>
-<br><br>
-<a align="center" href="https://abdelhafidrahab.github.io/Quiz_Application/"> 🚀 DEMO  </a>
+
+</div>
+
+
+
 
 
 
 
 <!---
-
+  align="left" 
 --->
