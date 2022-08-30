@@ -5,7 +5,7 @@
 - 💬 Ask me something, I will be happy if I can help you;
 - &#10004; Quote : &#10077; Coding is today's language of creativity. &#10078;
 <br>
-<h2 align="center">💪 Languages and Tools </h2>
+<h2 align="center">:muscle: Languages and Tools :muscle:</h2>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -35,12 +35,51 @@
 </a>
 
 </div>
+<br>
+
+<h2 align="center" >&#128204; Landing pages </h2>
+<div align="center">
+
+<a href="https://github.com/AbdelhafidRahab/Landing_Page_One_ar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_One_ar&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_One_ar" />
+</a>
+
+<a href="https://github.com/AbdelhafidRahab/Landing_Page_Two_ar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_Two_ar&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_Two_ar" />
+</a>
+
+
+</div>
+<br>
+
+<h2 align="center" >&#128204; Personal Template </h2>
+<div align="center">
+
+<a href="https://github.com/AbdelhafidRahab/Personal_Template_HTML_CSS_JavaScript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Personal_Template_HTML_CSS_JavaScript&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Personal_Template_HTML_CSS_JavaScript" />
+</a>
 
 
 
+</div>
+<br>
 
+<h2 align="center" >&#128204; Others </h2>
+<div align="center">
 
+<a href="https://github.com/AbdelhafidRahab/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Portfolio&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
+</a>
 
+<a href="https://github.com/AbdelhafidRahab/Image_slider">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Image_slider&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Image_slider" />
+</a>
+
+<a href="https://github.com/AbdelhafidRahab/404_Page_Html_and_Css">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=404_Page_Html_and_Css&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="404_Page_Html_and_Css" />
+</a>
+
+</div>
 
 
 <!---
