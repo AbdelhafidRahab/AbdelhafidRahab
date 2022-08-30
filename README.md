@@ -40,12 +40,12 @@
 <h2 align="center" >&#128204; Landing pages </h2>
 <div align="center">
 
-<a href="https://github.com/AbdelhafidRahab/Landing_Page_One_ar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_One_ar&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_One_ar" />
+<a href="https://github.com/AbdelhafidRahab/Landing_Page_One">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_One&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_One_ar" />
 </a>
 
-<a href="https://github.com/AbdelhafidRahab/Landing_Page_Two_ar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_Two_ar&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_Two_ar" />
+<a href="https://github.com/AbdelhafidRahab/Landing_Page_Two">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_Two&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_Two_ar" />
 </a>
 
 
