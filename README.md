@@ -46,6 +46,10 @@
 
 <div align="center">
 
+<a href="https://github.com/AbdelhafidRahab/Random_Lottery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Random_Lottery&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Random_Lottery" />
+</a>
+
 <a href="https://github.com/AbdelhafidRahab/XO_Game">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=XO_Game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="XO_Game" />
 </a>
