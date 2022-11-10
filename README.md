@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=60000&color=FFFFFF&center=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AbdelhafidRahab+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=60000&color=FFFFFF&center=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40AbdelhafidRahab" alt="Typing SVG" /></a>
 
 - 👀 interested in computer science;
 - 📫 to reach me ,WhatsApp : +213 541 71 01 68 || Email : mrabdelhafidrahab@gmail.com;
@@ -41,7 +41,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhafidRahab&PAT_1langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="abdelhafidrahab" width="350px"/></p>
 
 
-<h2 align="center" >&#128204; Apps </h2>
+<h2 align="center" >&#128204; Web Applications </h2>
 
 <div align="center">
 
@@ -68,9 +68,9 @@
 </div>
 <br>
 
-<h2 align="center" >&#128204; Landing pages </h2>
+<h2 align="center" >&#128204; Web Template </h2>
 <div align="center">
-
+  
 <a href="https://github.com/AbdelhafidRahab/Landing_Page_Two">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_Two&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_Two_ar" />
 </a>
@@ -79,18 +79,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_One_ar" />
 </a>
 
-</div>
-<br>
-
-<h2 align="center" >&#128204; Personal Template </h2>
-<div align="center">
-
 <a href="https://github.com/AbdelhafidRahab/Personal_Template_One">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Personal_Template_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Personal_Template_One" />
-</a>
-
-
-
+</a>  
+  
 </div>
 <br>
 
