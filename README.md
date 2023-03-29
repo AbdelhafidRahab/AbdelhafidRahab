@@ -29,75 +29,15 @@
 </a>
   
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="60" height="50"/> 
 </a>
-         
+  
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="60" height="60"/> 
+</a>
+  
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhafidRahab&PAT_1langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="abdelhafidrahab" width="350px"/></p>
-
-
-<h2 align="center" >&#128204; Web Applications </h2>
-
-<div align="center">
-
-<a href="https://github.com/AbdelhafidRahab/Random_Lottery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Random_Lottery&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Random_Lottery" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/XO_Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=XO_Game&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="XO_Game" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/ToDo_List">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=ToDo_List&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDo_List" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/Memory_Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Memory_Game&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory_Game" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/Quiz_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Quiz_App&PAT_1_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Quiz_App" />
-</a>
-
-</div>
-<br>
-
-<h2 align="center" >&#128204; Web Template </h2>
-<div align="center">
-  
-<a href="https://github.com/AbdelhafidRahab/Landing_Page_Two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_Two&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_Two_ar" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/Landing_Page_One">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Landing_Page_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Landing_Page_One_ar" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/Personal_Template_One">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Personal_Template_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Personal_Template_One" />
-</a>  
-  
-</div>
-<br>
-
-<h2 align="center" >&#128204; Others </h2>
-<div align="center">
-
-<a href="https://github.com/AbdelhafidRahab/Portfolio_One">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Portfolio_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio_One" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/Image_Slider_One">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=Image_Slider_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Image_Slider_One" />
-</a>
-
-<a href="https://github.com/AbdelhafidRahab/404_Page_One">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelhafidRahab&repo=404_Page_One&_show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="404_Page_One" />
-</a>
-
-</div>
 
 
 <!---
