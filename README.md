@@ -35,7 +35,12 @@
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="60" height="60"/> 
 </a>
-  
+
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="60" height="60"/> 
+</a>
+
+          
 </p>
 
 
