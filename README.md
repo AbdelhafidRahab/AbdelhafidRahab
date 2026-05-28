@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full Stack Engineer | AI Enthusiast</b>
   <br>
-  <a href="tel:+213541710168">(+213) 541 71 01 68</a>
+  WhatsApp <a href="tel:+213541710168">(+213) 541 71 01 68</a>
 </p>
 
 ---
