@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full Stack Engineer | AI Enthusiast</b>
   <br>
-  <a href="mailto:abdelhafidrahab@yahoo.com">abdelhafidrahab@yahoo.com</a> · <a href="tel:+213541710168">(+213) 541 71 01 68</a>
+  <a href="tel:+213541710168">(+213) 541 71 01 68</a>
 </p>
 
 ---
