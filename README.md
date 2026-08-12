@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdelhafid Rahab 👋</h1>
 
 <p align="center">
-  <b>Full Stack Engineer | AI Enthusiast</b>
+  <b>Backend Engineer | Distributed Systems | Security & DevOps</b>
   <br>
   WhatsApp <a href="tel:+213541710168">(+213) 541 71 01 68</a>
 </p>
