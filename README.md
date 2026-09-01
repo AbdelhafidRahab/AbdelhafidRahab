@@ -2,8 +2,6 @@
 
 <p align="center">
   <b>Backend Engineer | Distributed Systems | Security & DevOps</b>
-  <br>
-  WhatsApp <a href="tel:+213541710168">(+213) 541 71 01 68</a>
 </p>
 
 ---
