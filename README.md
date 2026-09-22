@@ -93,4 +93,4 @@
 
 A collection of projects I am building so I can understand how the software I use every day works under the hood.
 
-* ⚙️ **[CLI_stack](https://github.com/AbdelhafidRahab/CLI_stack)**
+* **[CLI_stack](https://github.com/AbdelhafidRahab/CLI_stack)**
