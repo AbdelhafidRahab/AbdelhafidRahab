@@ -1,70 +1,48 @@
-<h1 align="center">Hi, I'm Abdelhafid Rahab 👋</h1>
-
-<p align="center">
-  <b>Backend Engineer | Distributed Systems | Security & DevOps</b>
-</p>
+# Abdelhafid Rahab
+### **Backend Engineer | Distributed Systems & DevOps**
 
 ---
 
-## 💡 Technologies
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="36" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="36" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="36" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="36" /> <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" alt="Amazon S3" height="32" /> <img src="https://img.shields.io/badge/WebSocket-333333?logo=websockets&logoColor=white&style=for-the-badge" alt="WebSocket" height="32" />
-</p>
+* 🟢 **Core:**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring_Ecosystem-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)[cite: 1]
 
----
+* 🟡 **Secondary:**  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-## 🛠️ Tools
+* 🔵 **Familiar With:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET_Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+  ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+  ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="36" style="background:white;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="36" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="36" /> <img src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=orange&style=for-the-badge" alt="Postman" height="32" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="36" />
-</p>
-
----
-
-## 🚀 Professional & Other Skills
-
-<p align="center">
-  <b>System Design · Problem Solving · Product Thinking · Agile · Team Collaboration · Effective Communication · Adaptability · Time Management</b>
-</p>
-
----
-
-## 🎓 Education & Certifications
-
-- **Master’s in Distributed Architecture** Larbi Ben M'Hidi University, Algeria (2023–2025)
-- **Bachelor’s in Computer Science** Larbi Ben M'Hidi University, Algeria (2020–2023)
-
----
-
-## 🏆 Selected Projects
-
-- [**gamzio**](https://github.com/AbdelhafidRahab/gamzio): Multi-platform gaming platform (Web/Mobile/Desktop).
-- [**personal-website**](https://github.com/AbdelhafidRahab/personal-website): My personal portfolio website.
-- [**medium-clone**](https://github.com/AbdelhafidRahab/medium-clone): Full-featured Medium.com clone with PHP & Blade.
-- [**whatsapp-clone**](https://github.com/AbdelhafidRahab/whatsapp-clone): Full-stack WhatsApp clone using Spring Boot and Angular.
-- [**Clone_Amazon_Website**](https://github.com/AbdelhafidRahab/Clone_Amazon_Website): Amazon clone built with Laravel and Tailwind CSS.
-- [**XO_Game**](https://github.com/AbdelhafidRahab/XO_Game): Classic O/X game with modern responsive UI.
-- [**Finger_Fan_Math_Game**](https://github.com/AbdelhafidRahab/Finger_Fan_Math_Game): Educational game teaching basic math.
-
----
-
-## 💬 Languages
-
-- **Arabic** (Native)
-- **English** (Professional)
-- **French** (Intermediate)
-
----
-
-## 🌱 Interests
-
-- **Strategic Gaming (Chess):** Studying openings and endgames.
-- **Continuous Learning:** Exploring cutting-edge tech.
-- **Reading:** Technology, history, and philosophy.
-
----
-
-<p align="center">
-  <i>Let's connect, collaborate, and build something remarkable!</i>
-</p>
+* ⚙️ **Competencies:**  
+  `Product Thinking` • `System Design` • `Software Architecture` • `Problem Solving` • `Agile Methodologies` • `Project Management`.
