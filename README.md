@@ -2,7 +2,7 @@
 
 # Abdelhafid Rahab
 
-### **Software Engineer | Distributed Systems & DevOps**
+### **Software Engineer | Distributed Systems | Security & DevOps**
 
 </div>
 
