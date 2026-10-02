@@ -74,18 +74,6 @@
 
 <br>
 
-<details open>
-  <summary><b>⚙️ Core Competencies</b></summary>
-  <br>
-  <p>
-    <code>Product Thinking</code> &nbsp;•&nbsp; 
-    <code>System Design</code> &nbsp;•&nbsp; 
-    <code>Software Architecture</code> &nbsp;•&nbsp; 
-    <code>Problem Solving</code> &nbsp;•&nbsp; 
-    <code>Agile Methodologies</code> &nbsp;•&nbsp; 
-    <code>Project Management</code>
-  </p>
-</details>
 
 ---
 
